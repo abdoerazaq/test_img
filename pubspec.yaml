@@ -39,7 +39,7 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
-   assets :
+   assets:
     - images/img1.jpg
   # - images/a_dot_ham.jpeg
 
